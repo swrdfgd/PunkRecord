@@ -7898,6 +7898,7 @@ punk5 = [["http://brawlhalla.fandom.com/es/","Wiki Brawlhalla"],
 ["http://genesis-x.fandom.com/","Genesis X Wiki"],
 ["http://whitelotus.fandom.com/","The Order Of The White Lotus Wiki"],
 ["http://warriorscats.fandom.com/pt-br/","Wiki Gatos Guerreiros"],
-["http://raydos-second.fandom.com/","Raydo's Second Wiki"],];
+["http://raydos-second.fandom.com/","Raydo's Second Wiki"],
+["https://wikisource.org/","Wikisource"],];
 
 punk = punk.concat(punk6);
