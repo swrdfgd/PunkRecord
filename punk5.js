@@ -7901,4 +7901,4 @@ punk5 = [["http://brawlhalla.fandom.com/es/","Wiki Brawlhalla"],
 ["http://raydos-second.fandom.com/","Raydo's Second Wiki"],
 ["https://wikisource.org/","Wikisource"],];
 
-punk = punk.concat(punk6);
+punk = punk.concat(punk5);
