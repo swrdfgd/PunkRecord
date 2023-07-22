@@ -1,4 +1,4 @@
-punk1 = [["http://missouri.fandom.com/","Missouri Wiki"],
+punk8 = [["http://missouri.fandom.com/","Missouri Wiki"],
 ["http://passagesofolos.fandom.com/","The Passages of Olos"],
 ["http://lizziemcguire.fandom.com/","Lizzie McGuire Wiki"],
 ["http://silenthill.fandom.com/fr/","Silent Hill Wiki"],
@@ -60428,4 +60428,4 @@ punk1 = [["http://missouri.fandom.com/","Missouri Wiki"],
 ["http://souls-project.fandom.com/","Souls Project Wiki"],
 ["http://castleclash.fandom.com/ru/","Битва Замков вики"],];
 
-punk = punk.concat(punk1);
+punk = punk.concat(punk8);
